@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! 👋 You can check out my website at [danu.sh](https://danu.sh)!
+
+[![b1ackshadow's github stats](https://github-readme-stats.vercel.app/api?username=b1ackshadow&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
