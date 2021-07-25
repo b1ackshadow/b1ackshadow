@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ackshadow)](https://github.com/anuraghazra/github-readme-stats)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1ackshadow&count_private=true&show_icons=true&theme=gruvbox)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1ackshadow&count_private=true&show_icons=true&theme=synthwave)
 
