@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 <p align="left"> 
   <a href="https://github.com/b1ackshadow/b1ackshadow/">
-    <img src="https://komarev.com/ghpvc/?username=yujinyuz" alt="yujinyuz" />
+    <img src="https://komarev.com/ghpvc/?username=b1ackshadow" alt="b1ackshadow" />
   </a>
-  <a href="http://twitter.com/b1ackshadow">
-    <img height="20" src="https://img.shields.io/twitter/follow/yujinyuz_?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/blackshadoh">
+    <img height="20" src="https://img.shields.io/twitter/follow/blackshadoh?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/b1ackshadow">
-    <img height="20" src="https://img.shields.io/github/followers/yujinyuz?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/b1ackshadow?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/spaz">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/yujinyuz?label=Reddit&logo=reddit&style=flat" />
+  <a href="https://www.reddit.com/user/obamabinladenhiphop">
+    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/obamabinladenhiphop?label=Reddit&logo=reddit&style=flat" />
   </a>
   <!-- <a href="https://stackoverflow.com/users/3788603/b1ackshadow">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/3788603?label=StackOverflow&logo=stack-overflow&style=flat" />
