@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ackshadow)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1ackshadow&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=b1ackshadow&count_private=true&show_icons=true&theme=radical)
 
