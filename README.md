@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/b1ackshadow">
     <img height="20" src="https://img.shields.io/github/followers/b1ackshadow?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.reddit.com/user/obamabinladenhiphop">
+<!--   <a href="https://www.reddit.com/user/obamabinladenhiphop">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/obamabinladenhiphop?label=Reddit&logo=reddit&style=flat" />
-  </a>
+  </a> -->
   <!-- <a href="https://stackoverflow.com/users/3788603/b1ackshadow">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/3788603?label=StackOverflow&logo=stack-overflow&style=flat" />
   </a> -->
